@@ -9,6 +9,7 @@ One of the first things you may have noticed if you work as a localization profe
 
 Anyway, there are a few key terms that if everyone could come to a common understanding about, life would be better for about 30 people. If you are, or have to live or work with, an LPM, these are the terms that you should know.
 
+{: .table .table-bordered .table-striped}
 | Term            | Definition/acronym expansion  |
 |:----------------|:------------------------------|
 | l10n            | Localization                 - Adapting a product's voice, tone and associated assets (videos, images, colors) to another language/country combination |
