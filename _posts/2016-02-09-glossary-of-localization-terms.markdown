@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Glossary"
+title:  "Let's all get on the same page"
 date:   2016-02-09 17:06:41 -0800
 ---
 
