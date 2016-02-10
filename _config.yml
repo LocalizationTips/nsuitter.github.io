@@ -6,16 +6,17 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Localization tips
+email: nathan@loc.tips
+description: >
+  Tired of reading dry 'localization best practices' writups?
+  Do you find yourself explaining why concatenation is bad until you're blue in the face?
+  Then this site is for you. A localization tips site for the curious, the jaded, and the
+  out of time for that presentation this afternoon
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://www.loc.tips" # the base hostname & protocol for your site
+twitter_username: #jekyllrb
+github_username:  #jekyll
 port: 3000
 
 # Build settings

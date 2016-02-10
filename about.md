@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This site can be used as a resource for developers, project manager, product managers and anyone curious about software localization (which would make you very special indeed if you aren't any of the above three).
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+But mostly it's a way for us in the industry to show that localization is hard. We've all dealt with a product owner that says something like 'localization is as easy as translating words' ** cringe ** but unless they speak a second language or have seen a product poorly localized from another language into English (unlikely), it is hard to convince them that it is much more involved. Wouldn't it be great to be able to point them to an English example of a website with target-language-style errors? Noun-verb mixups, numeration, sorting, and truncation issues, raw MT output, character corruption, you get the idea.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Well now it's here. A site where you can do just that. If you have an idea for an example and want to contribute, this site is hosted on GitHub Pages, so you can just create an .md file and send me a pull request [here](https://github.com/nsuitter/nsuitter.github.io), or, if you're less technically inclined, you can send me an email [here](mailto:nathan@loc.tips). But mostly, you can use this site to show your manager everything you put up with day after day. And then you can ask for a raise. Now wouldn't that be nice?
