@@ -7,9 +7,15 @@
         <priority>0.5</priority>
     </url>
     <url>
-   	   <loc>http://loc.tips/</loc>
-   	   <lastmod>2016-02-16</lastmod>
-       <changefreq>weekly</changefreq>
-       <priority>0.5</priority>
+   	    <loc>http://loc.tips/about/</loc>
+   	    <lastmod>2016-02-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+    	<loc>http://loc.tips/glossary-of-localization-terms</loc>
+   	    <lastmod>2016-02-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
     </url>
 </urlset> 
