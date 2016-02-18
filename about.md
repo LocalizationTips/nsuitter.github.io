@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
+description: Explaining why localization is important to people who haven't thought about at all. Localization and translation are an integral part of user experience.
 ---
 
 This site can be used as a resource for developers, project manager, product managers and anyone curious about software localization (which would make you very special indeed if you aren't any of the above three).
