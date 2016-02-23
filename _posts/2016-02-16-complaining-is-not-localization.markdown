@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Complaining ≠ localization: Why localizers and developers misunderstand each other"
-description: test
+description: Establishing why there is a communication gap between localization teams and development teams
 ---
 
 I've been to a localization conference or two over the years. One thing that struck me as odd was how much of it was centered around moaning about how hard it is to get your devs to not concatenate their strings, provide context in the form of code comments, basically writing localization-friendly code. At first it was vaguely annoying and then interesting how common it was across companies and then it became kind of endearing. There are a few reasons as to why this is.

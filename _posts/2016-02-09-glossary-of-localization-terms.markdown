@@ -2,7 +2,7 @@
 layout: post
 title:  "Let's all get on the same page"
 date:   2016-02-09 17:06:41 -0800
-description: "This is a glossary of localization terms we can share with people so they know what we're talking about when we say it: l10n, i18n, LQA explained."
+description: This is a glossary of localization terms we can share with people so they know what we're talking about when we say it: l10n, i18n, LQA explained.
 ---
 
 
