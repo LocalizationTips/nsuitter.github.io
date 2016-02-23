@@ -1,10 +1,8 @@
 ---
 layout: post
 title:  "Let's all get on the same page"
-date:   2016-02-09 17:06:41 -0800
-description: This is a glossary of localization terms we can share with people so they know what we're talking about when we say it: l10n, i18n, LQA explained.
+description: "This is a glossary of localization terms we can share with people so they know what we're talking about when we say it: l10n, i18n, LQA explained."
 ---
-
 
 One of the first things you may have noticed if you work as a localization professional (let's shorten this to LPM for localization project manager from here on out) is that you use a lot of acronyms. No one really understands what you're saying outside of the industry. Now, using acronyms is by no means unique to localization, but the field is so small that only at a localization conference will people look at you like you're not speaking complete nonsense.
 
