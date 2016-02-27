@@ -4,7 +4,7 @@ title:  "Overcoming imposter syndrome"
 description: "How to overcome impostor syndrome as a localization project manager in a development environment. Resources for localizers to learn technical skills"
 ---
 
-As discussed in and [earlier post](../complaining-is-not-localization), it is quite common for localizers to feel a bit intimidated when working with developers that ask them technical questions. Mostly because we're afraid of being seen as dumb when we answer with "I don't know". Questions I've been asked range from whether or not to include escaped markup in a translatable string (hint: you usually do for inline elements) to the benefits of serving strings up from a cache vs. a database. These kinds of questions can be hard to answer and it's easy to feel out of your depth.
+As discussed in an [earlier post](../complaining-is-not-localization), it is quite common for localizers to feel a bit intimidated when working with developers that ask them technical questions. Mostly because we're afraid of being seen as dumb when we answer with "I don't know". Questions I've been asked range from whether or not to include escaped markup in a translatable string (hint: you usually do for inline elements) to the benefits of serving strings up from a cache vs. a database. These kinds of questions can be hard to answer and it's easy to feel out of your depth.
 
 #### Don't give into the temptation to sound like you know what you're talking about (unless you do)
 
