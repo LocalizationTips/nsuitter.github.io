@@ -5,7 +5,7 @@ permalink: /about
 description: Explaining why localization is important to people who haven't thought about at all. Localization and translation are an integral part of user experience.
 ---
 
-This site can be used as a resource for developers, project manager, product managers and anyone curious about software localization (which would make you very special indeed if you aren't any of the above three).
+This site can be used as a resource for developers, project managers, product managers and anyone curious about software localization (which would make you very special indeed if you aren't any of the above three).
 
 But mostly it's a way for us in the industry to show that localization is hard. We've all dealt with a product owner that says something like "localization is as easy as translating words" \**&nbsp;cringe&nbsp;**, but unless they speak a second language or have seen a product poorly localized from another language into English (unlikely), it is hard to convince them that it is much more involved. Wouldn't it be great to be able to point them to an English example of a website with target-language-style errors? Noun-verb mixups, numeration, sorting, and truncation issues, raw MT output, character corruption, you get the idea.
 
