@@ -9,7 +9,7 @@
 title: Localization tips
 email: nathan@loc.tips
 description: >
-  Tired of reading dry 'localization best practices' writups?
+  Tired of reading dry 'localization best practices' writeups?
   Do you find yourself explaining why concatenation is bad until you're blue in the face?
   Then this site is for you. A localization tips site for the curious, the jaded, and the
   out of time for that presentation this afternoon
@@ -24,5 +24,3 @@ permalink: /:title
 
 # Build settings
 markdown: kramdown
-gems: 
-  - jekyll-sitemap
